@@ -15,7 +15,7 @@ This project demonstrates an event-driven workflow for processing PDF files usin
   - Bucket name: `bucket-uploadfile-source-001`
   - Enabled versioning (optional)
   - Configured trigger for Lambda on `s3:ObjectCreated:Put`
-  - Configured event filter for `.pdf` files only
+  - Configured event filter for `.pdf` files only ( for suffix)
 
 - **Created Lambda Function (Phase 1)**
   - Runtime: Python 3.14
