@@ -126,4 +126,4 @@ This project demonstrates an event-driven workflow for processing PDF files usin
 ## Author
 
 **Umesh Saini**  
-**Internship Project**
+**AWS Project**
